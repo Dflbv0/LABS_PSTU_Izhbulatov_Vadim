@@ -5,9 +5,6 @@ using namespace std;
 
 int main()
 {
-    // Настройка вывода русского языка в консоли (если необходимо)
-    setlocale(LC_ALL, "Russian");
-
     double a = 0;
     int n = 1;
     double sum = 0;
