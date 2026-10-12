@@ -1,2 +1,4 @@
-# LABS_PSTU_Izhbulatov_Vadim
+# Рассказ о себе
 
+Я, Вадим Ижбулатов, из группы ИВТ-26-16
+![images.jpg](https://github.com)
