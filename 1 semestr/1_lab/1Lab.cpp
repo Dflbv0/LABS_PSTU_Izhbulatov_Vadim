@@ -31,3 +31,13 @@ int main()
 
     return 0;
 }
+
+int main() {
+    int m = 5, n = 3;
+
+    cout << m-- + ++n << endl;
+    cout << (++m >= --n) << endl;
+    cout << (--n < ++m) << endl;
+
+    return 0;
+}
