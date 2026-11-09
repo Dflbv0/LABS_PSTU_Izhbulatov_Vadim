@@ -56,3 +56,16 @@ int main()
 
     return 0;
 }
+<<<<<<< HEAD:1 semestr/1_lab/1Lab.cpp
+
+int main() {
+    int m = 5, n = 3;
+
+    cout << m-- + ++n << endl;
+    cout << (++m >= --n) << endl;
+    cout << (--n < ++m) << endl;
+
+    return 0;
+}
+=======
+>>>>>>> 9043db234b0448169207fe6955d61dab69347d4e:1 semestr/1_lab/1Lab_fixed.cpp
